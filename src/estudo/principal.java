@@ -13,11 +13,7 @@ public class principal {
 		Scanner scan = new Scanner (System.in);
 		
 		
-		Pessoa Luizao = new Pessoa();
 		
-		Luizao.getEndereco().setCep("60824220");
-		
-		Luizao.getEndereco().getCep();
 		
 	
 		
