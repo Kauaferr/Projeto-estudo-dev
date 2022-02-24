@@ -68,7 +68,7 @@ public class Pessoa {
 	
 	
 	public Pessoa() {
-		
+		this.endereco = new Endereco();
 		
 	}
 	
